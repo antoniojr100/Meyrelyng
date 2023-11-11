@@ -53,4 +53,8 @@ a:hover{
 	border:3px solid white;
 }
 
+iframe{
+    max-width: 90vw;
+}
+
 /* asia.jpeg */
