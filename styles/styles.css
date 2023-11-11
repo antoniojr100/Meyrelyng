@@ -46,6 +46,7 @@ a{
 	margin:35px 25px;
 	border-radius: 60px;
 	transition-duration: .3s;
+	max-width: 30%;
 }
 
 a:hover{
@@ -60,5 +61,13 @@ iframe{
 #flex-nav{
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#flex-nav-bottom{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
 }
 /* asia.jpeg */
